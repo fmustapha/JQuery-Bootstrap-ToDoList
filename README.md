@@ -1,2 +1,2 @@
 # JQuery-Bootstrap-ToDoList
-A todo list implemented with JQuery and Bootstrap 4
+A todo list app implemented with JQuery and Bootstrap 4
